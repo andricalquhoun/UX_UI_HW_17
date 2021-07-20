@@ -18,7 +18,7 @@ div.content{
     text-align: center;
 }
 section.heroImg {
-    height: 600px;
+    height: 700px;
     padding: 25px;
 }
 div.content {
@@ -32,7 +32,7 @@ footer {
 }
 footer li{
     display: inline-block;
-    vertical-align:top;
+    vertical-align:bottom;
 }
 footer ul {
     width: 50%;
